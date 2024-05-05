@@ -1,7 +1,7 @@
 {
     "version": 2,
     "functions": {
-    "api/**/*.py": {
+    "app.py": {
       "memory": 3008
     }
   },
